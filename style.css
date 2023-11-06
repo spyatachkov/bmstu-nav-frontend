@@ -1,0 +1,27 @@
+.scheme {
+	height: 393px;
+	width: 738px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.scheme svg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 393px;
+	width: 738px;
+}
+
+.scheme polygon {
+	fill: #FFDBA4;
+	cursor: pointer;
+}
+
+.isSelectedAud {
+    fill: rgb(141, 31, 99) !important;
+}
+
+.isSelectedHall {
+    fill: rgb(0, 55, 255) !important;
+}
